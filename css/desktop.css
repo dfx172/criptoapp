@@ -1,0 +1,25 @@
+body{max-width: 850px;
+     margin-left: 10%;
+    margin-right: 10%;
+    justify-content: center;}
+
+.c1{gap: 10px;}
+.c1-bitcoin{ width: 30%; height: 30%;}
+.c3{background-color: var(--just-white);width: 40%;}
+.chica-bitcoin{margin:7% 0;}
+
+.c4{width: 60%; height: 550px;}
+
+.c4-card{
+    position: relative;
+        scroll-snap-align: center;
+        background-color: var(--just-white);
+        width: 200px;
+        margin-left: 30%;
+        height: 250px;
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+        align-items: center;
+        justify-content: center;
+}

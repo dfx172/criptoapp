@@ -1,0 +1,17 @@
+
+    .c1{gap: 10px;}
+    .c1-bitcoin{ width: 30%; height: 30%;}
+    .c3{height: 500px;}
+    .c4-card{
+        position: relative;
+        scroll-snap-align: center;
+        background-color: var(--just-white);
+        width: 200px;
+        margin-left: 30%;
+        height: 250px;
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+        align-items: center;
+        justify-content: center;}
+
